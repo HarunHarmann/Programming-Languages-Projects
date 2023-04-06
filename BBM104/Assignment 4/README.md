@@ -1,0 +1,1 @@
+For the sake of the program, assets folder should be inside the src folder.
