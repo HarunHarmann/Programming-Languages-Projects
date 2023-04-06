@@ -1,0 +1,27 @@
+User 'Michael' has been added to the social network successfully
+User 'Mary' and his/her all relations have been deleted successfully
+User 'Jim' has been added to the social network successfully        
+ERROR: Wrong input type! for 'DEU'!--There is no user named 'Dwight'!!
+User 'Michael' has 0 friends
+Relation between 'Michael' and 'Jim' has been added successfully
+Relation between 'Frida' and 'Ryan' has been deleted successfully
+ERROR: A relation between 'Emily' and 'Camila' already exists!!
+ERROR: No relation between 'Lou' and 'Jim' found!!
+ERROR: Wrong input type! for 'ANU'! -- This user already exists!!
+User Dacey have 15 possible friends when maximum distance is 2
+These possible friends: {'Andy', 'Betty', 'Camila', 'Emily', 'Frida', 'George', 'Hailey', 'Ian', 'Ken', 'Lou', 'Nadia', 'Otello', 'Paul', 'Ryan', 'Tom'}
+ERROR: Wrong input type! for 'FPF'!--No user named 'Pam' found!
+Error: Mutually Degree cannot be less than 2 or greater than 3
+Suggestion List for 'Ryan' (when MD is 2):
+'Ryan' has 2 mutual friends with 'Otello'
+'Ryan' has 2 mutual friends with 'Lou'
+'Ryan' has 3 mutual friends with 'Emily'
+'Ryan' has 3 mutual friends with 'Dacey'
+'Ryan' has 3 mutual friends with 'Nadia'
+'Ryan' has 3 mutual friends with 'Ken'
+'Ryan' has 3 mutual friends with 'Hailey'
+'Ryan' has 3 mutual friends with 'Tom'
+'Ryan' has 4 mutual friends with 'Andy'
+'Ryan' has 4 mutual friends with 'Ian'
+'Ryan' has 5 mutual friends with 'Betty'
+The suggested friends for 'Ryan': 'Andy', 'Betty', 'Dacey', 'Emily', 'Hailey', 'Ian', 'Ken', 'Lou', 'Nadia', 'Otello', 'Tom'

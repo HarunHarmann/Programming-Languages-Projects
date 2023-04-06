@@ -1,0 +1,41 @@
+Welcome to Assignment 3
+-----------------------------------------------------------------------------------
+ERROR: Wrong input type! for 'ANU'! -- This user already exists!!
+User 'James' has been added to the social network successfully
+ERROR: Wrong input type! for 'DEU'! -- There is no user named 'Michael'!!
+User 'Andy' and his/her all relations have been deleted successfully
+ERROR: Wrong input type! for 'ANF'! -- No user named 'Andy' found!!
+ERROR: Wrong input type! for 'ANF'! -- No user named 'Quinn' found!!
+ERROR: Wrong input type! for 'ANF'! -- No user named 'Andy' found!!
+Relation between 'Otello' and 'James' has been added successfully
+Relation between 'James' and 'Otello' has been deleted successfully
+ERROR: Wrong input type! for 'DEF'! -- No user named 'Camilla' and 'Quinn' found!!
+ERROR: No relation between 'Ken' and 'Otello' found!!
+Relation between 'Betty' and 'Dacey' has been deleted successfully
+User 'Otello' has 5 friends
+User 'Ryan' has 9 friends
+ERROR: Wrong input type! for 'FPF'! -- User 'James' has less friends than maximum distance!!
+ERROR: Wrong input type! for 'FPF'! -- No user named 'Quinn' found!!
+Suggestion list for 'Ryan' (when MD is 3):
+'Ryan' has 3 mutual friends with 'Tom'
+'Ryan' has 3 mutual friends with 'Nadia'
+'Ryan' has 3 mutual friends with 'Hailey'
+'Ryan' has 3 mutual friends with 'Ken'
+'Ryan' has 3 mutual friends with 'Emily'
+'Ryan' has 4 mutual friends with 'Betty'
+'Ryan' has 5 mutual friends with 'Ian'
+The suggested friends for 'Ryan': 'Betty', 'Emily', 'Hailey', 'Ian', 'Ken', 'Nadia', 'Tom'
+ERROR: Mutually Degree cannot be less than 1 or greater than 4!!
+Suggestion list for 'Paul' (when MD is 2):
+'Paul' has 2 mutual friends with 'Mary'
+'Paul' has 2 mutual friends with 'Ryan'
+'Paul' has 3 mutual friends with 'Tom'
+'Paul' has 3 mutual friends with 'Camila'
+'Paul' has 3 mutual friends with 'Ian'
+'Paul' has 3 mutual friends with 'Lou'
+The suggested friends for 'Paul': 'Camila', 'Ian', 'Lou', 'Mary', 'Ryan', 'Tom'
+Suggestion list for 'Lou' (when MD is 3):
+'Lou' has 3 mutual friends with 'Hailey'
+'Lou' has 3 mutual friends with 'Ian'
+'Lou' has 3 mutual friends with 'Paul'
+The suggested friends for 'Lou': 'Hailey', 'Ian', 'Paul'

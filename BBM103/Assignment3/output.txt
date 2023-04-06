@@ -1,0 +1,40 @@
+User 'Alessia' has been added to the social media network succesfully.
+User 'Martina' has been added to the social media network succesfully.
+ERROR:Wrong input type for 'ANU'!-- This user already exists!--
+ERROR:Wrong input type for 'ANU'!-- This user already exists!--
+ERROR:Wrong input type for 'DEU'!-- There is no user named 'Aurora'.
+ERROR:Wrong input type for 'DEU'!-- There is no user named 'Sara'.
+User 'Hector' and his/her all relations have been deleted succesfully.
+ERROR:Wrong input type for 'ANF'!-- There is no user named 'Isabella'.
+ERROR:Wrong input type for 'ANF'!-- There are no user named 'Isabella' and 'Charlotte'.
+ERROR:Wrong input type for 'ANF'!--'Nick' and 'Rose' already friends!
+Relation between 'Alessia' and 'Lowell' has been added succesfully.
+Relation between 'Martina' and 'Olivia' has been added succesfully.
+ERROR:Wrong input type for 'DEF'!-- There is no user named 'Ruby'.
+ERROR:Wrong input type for 'DEF'!-- There are no user named 'Amelia' and 'Mia'.
+ERROR:Wrong input type for 'DEF'!--'Alex' and 'Jason' are not friends.
+Relation between 'Anna' and 'Rose' has been deleted succesfully.
+ERROR:Wrong input type for 'CF'!-- There is no user named 'Chloe'.
+User 'Rose' has 4 friends.
+ERROR:Wrong input type for 'FPF'!-- There is no user named 'Ava'.
+User 'Alex' has 4 possible friends when maximum distance is 1:
+These possible friends: {'Anna', 'Beatrix', 'Mary', 'Rose'}
+User 'Alex' has 11 possible friends when maximum distance is 2:
+These possible friends: {'Adam', 'Albert', 'Anna', 'Arthur', 'Beatrix', 'Benedict', 'Jesse', 'Ken', 'Mary', 'Nick', 'Rose'}
+User 'Alex' has 16 possible friends when maximum distance is 3:
+These possible friends: {'Adam', 'Albert', 'Anna', 'Arthur', 'Beatrix', 'Benedict', 'Jason', 'Jesse', 'Ken', 'Kevin', 'Lowell', 'Mary', 'Nick', 'Richard', 'Rose', 'Soul'} 
+ERROR:Wrong input type for 'SF'!-- There is no user named 'Otello'.
+ERROR:Mutuality degree can only be in [2,3] interval.
+Suggestion list for 'Alex' (when MD is 2):
+'Alex' has 2 mutual friends with 'Adam'.
+'Alex' has 2 mutual friends with 'Albert'.
+'Alex' has 2 mutual friends with 'Arthur'.
+'Alex' has 3 mutual friends with 'Nick'.
+The suggested friends for 'Alex':'Adam', 'Albert', 'Arthur', 'Nick'
+Suggestion list for 'Alex' (when MD is 3):
+'Alex' has 3 mutual friends with 'Nick'.
+The suggested friends for 'Alex':'Nick'
+Suggestion list for 'Beatrix' (when MD is 2):
+'Beatrix' has 2 mutual friends with 'Anna'.
+'Beatrix' has 2 mutual friends with 'Mary'.
+The suggested friends for 'Beatrix':'Anna', 'Mary'

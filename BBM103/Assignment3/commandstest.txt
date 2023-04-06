@@ -1,0 +1,14 @@
+ANU Michael
+DEU Mary
+ANU Jim
+DEU Dwight
+CF Michael
+ANF Michael Jim
+DEF Frida Ryan
+ANF Emily Camila
+DEF Lou Jim
+ANU Ken
+FPF Dacey 2
+FPF Pam 1
+SF Dacey 6
+SF Ryan 2

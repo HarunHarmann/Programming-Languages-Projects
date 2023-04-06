@@ -1,0 +1,29 @@
+ERROR: Wrong input type! for 'DEU'!--There is no user named Thomas!!
+User George and his/her all relations have been removed successfully
+ERROR: Wrong input type! for 'ANF'!--No user named Thomas found!!
+Relation between John and Ken has been added successfully
+ERROR:A relation between John and Ian already exists!!
+ERROR: Wrong input type! for 'DEF'!--No user named Thomas found!
+Relation between Hailey and Dacey has been deleted successfully
+ERROR: Wrong input type! for 'DEF'!--No user named George found!
+ERROR: Wrong input type! for 'CF'!--No user named Thomas found!
+ERROR: Wrong input type! for 'CF'!--No user named George found!
+User ‘John’ has 6 friends
+ERROR: Wrong input type! for 'FPF'!--No user named Thomas found!
+ERROR: Wrong input type! for 'FPF'!--No user named George found!
+User ‘Ian’ has 16 possible friends when maximum distance is 3
+These possible friends:['Andy', 'Betty', 'Camila', 'Dacey', 'Emily', 'Frida', 'Hailey', 'John', 'Ken', 'Lou', 'Mary', 'Nadia', 'Otello', 'Paul', 'Ryan', 'Tom']
+Error: Wrong input type! for 'SF'!--No user named Thomas found!!
+Suggestion List for 'Frida' (when MD is 3):
+'Frida' has 3 mutual friends with Ian
+‘The suggested friends for ‘Frida’:'Ian'
+Suggestion List for 'Ryan' (when MD is 2):
+'Ryan' has 2 mutual friends with Tom
+‘The suggested friends for ‘Ryan’:'Tom'
+Suggestion List for 'Camila' (when MD is 2):
+'Camila' has 2 mutual friends with Ian
+'Camila' has 2 mutual friends with Mary
+'Camila' has 2 mutual friends with Otello
+'Camila' has 2 mutual friends with Tom
+‘The suggested friends for ‘Camila’:'Mary', 'Otello', 'Ian', 'Tom'
+Relation between John and Ian has been deleted successfully
